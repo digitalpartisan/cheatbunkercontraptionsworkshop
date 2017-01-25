@@ -1,0 +1,3 @@
+This mod provides the Contraptions Workshop package for The Cheat Bunker.  As such, it requires both the Contraptions Workshop DLC and The Cheat Bunker to be installed.  This package brings the steel balls and the mortar shells (both fireworks and weather options) into the Cheat Bunker.
+
+Yes, really.  That's it.  It goes without saying that's a very small amount of content for a mod.  If your load order is filling up, feel free to give this mod a pass.
