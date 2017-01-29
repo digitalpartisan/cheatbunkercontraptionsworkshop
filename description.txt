@@ -1,3 +1,15 @@
-This mod provides the Contraptions Workshop package for The Cheat Bunker.  As such, it requires both the Contraptions Workshop DLC and The Cheat Bunker to be installed.  This package brings the steel balls and the mortar shells (both fireworks and weather options) into the Cheat Bunker.
+Brings miscellaneous items such as steel balls and firework / weather shells from the Contraptions Workshop into The Cheat Bunker.
 
-Yes, really.  That's it.  It goes without saying that's a very small amount of content for a mod.  If your load order is filling up, feel free to give this mod a pass.
+Quest Auto-completion options:
+None
+Importers:
+None
+Exterior space connection(s):
+N/A
+
+Items modified for playability and/or adding a legendary effect attach point:
+None
+
+-
+
+The Cheat Bunker: Contraptions has been cleaned with FO4Edit.
