@@ -1,5 +1,6 @@
 1.1.0
 Introduced AWKCR dependency
+Upgraded the package versioning and upgrade logic corresponding to changes in The Cheat Bunker v1.7.0
 
 1.0.1
 Matched the 1.0.2 bugfix in the main Cheat Bunker plugin which updated the package versioning system as well as the AiO uninstallation bug
