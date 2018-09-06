@@ -1,5 +1,8 @@
+1.3.0
+Integrated Chronicle v1.1.0 in accordance with The Cheat Bunker v1.9.0 upgrade
+
 1.2.0
-Integrated Chronicle v1.0.0 in accordance with The Cheat Bunker v1.8.0 upgrades
+Integrated Chronicle v1.0.0 in accordance with The Cheat Bunker v1.8.0 upgrade
 
 1.1.0
 Introduced AWKCR dependency
